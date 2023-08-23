@@ -1,0 +1,15 @@
+body{
+    color: blueviolet;
+   background-color: rgb(195, 165, 217);
+    text-decoration: rgb(0, 0, 0);
+
+}
+
+input{
+   border-color: rgb(144, 88, 255);
+   border-radius: 90px;
+}
+
+button{
+    background-color: rgb(123, 89, 234);
+}
